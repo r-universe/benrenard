@@ -5,3 +5,6 @@
 [submodule "HydroPortailStats"]
 	path = HydroPortailStats
 	url = https://github.com/benrenard/hydroportailstats
+[submodule "sequenceR"]
+	path = sequenceR
+	url = https://github.com/benrenard/sequencer
