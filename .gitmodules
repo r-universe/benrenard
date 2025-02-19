@@ -5,6 +5,9 @@
 [submodule "HydroPortailStats"]
 	path = HydroPortailStats
 	url = https://github.com/benrenard/hydroportailstats
+[submodule "musicXML"]
+	path = musicXML
+	url = https://github.com/benrenard/musicxml
 [submodule "sequenceR"]
 	path = sequenceR
 	url = https://github.com/benrenard/sequencer
