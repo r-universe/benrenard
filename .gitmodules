@@ -5,6 +5,9 @@
 [submodule "HydroPortailStats"]
 	path = HydroPortailStats
 	url = https://github.com/benrenard/hydroportailstats
+[submodule "ShiftHappens"]
+	path = ShiftHappens
+	url = https://github.com/benrenard/shifthappens
 [submodule "musicXML"]
 	path = musicXML
 	url = https://github.com/benrenard/musicxml
